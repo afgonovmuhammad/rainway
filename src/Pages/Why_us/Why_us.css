@@ -1,0 +1,22 @@
+.P_four{
+    border-left: 5px solid #4c1bb5;
+    padding-left: 30px;
+}
+.HH{
+    background: linear-gradient(90deg, #6A11CB 0%, #2575FC 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+
+}
+
+.H4{
+    background: #FFFFFF;
+box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.716);
+border-radius: 10px;
+background: linear-gradient(90deg, #6A11CB 0%, #2575FC 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+
+}

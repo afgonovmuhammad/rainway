@@ -1,0 +1,11 @@
+.HH{
+    background: linear-gradient(90deg, #6A11CB 0%, #2575FC 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+
+}
+
+.main_2{
+    background: linear-gradient(90deg, rgba(106, 17, 203, 0.1) 0%, rgba(37, 117, 252, 0.1) 100%);
+}
